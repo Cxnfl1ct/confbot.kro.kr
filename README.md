@@ -3,4 +3,4 @@ This is the primary resource repository of confbot.kro.kr
 
 > ConfBot is online on 5b5t.org! (Minecraft)
 
-Go to ConfBot's main page link(confbot.kro.kr)
+(Go to ConfBot's main page||confbot.kro.kr)
