@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+body {
+	font-family: 'Noto Sans';
+	margin: 0rem;
+	background-color: #171717;
+}
+
+.nav {
+	display: flex;
+	padding: 1rem;
+	background-color: #333;
+	
+}
+
+.nav_in {
+	padding-right: 0.7rem;
+	text-decoration: none;
+	color: white;
+}
+
+.title {
+	padding-right: 1.5rem;
+}
+
+h1, h3 {
+	padding-left: 1.5rem;
+	color: white;
+}
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-style: bold;
+}
+
+a {
+	text-decoration: none;
+	color: white;
+}
+
+.underline {
+	font-style: underline;
+}
